@@ -4,6 +4,8 @@
 
 `npm install` : Proje ana klasöründe komut çalıştırılarak bağımlıklar yüklenir.
 
+`npm install axios` : Proje ana klasöründe komut çalıştırılarak axios yüklenir (HTTP GET, POST, PUT, DELETE için).
+
 `npm run build` : Proje built edilir.
 
 `npm start` : Proje çalıştırır.
