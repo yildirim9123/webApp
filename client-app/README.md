@@ -2,6 +2,13 @@
 
 **Teknolojiler:** React, react-bootstrap, react-bootstrap-table, react-select, axios
 
+`npm install` : Proje ana klasöründe komut çalıştırılarak bağımlıklar yüklenir.
+
+`npm run build` : Proje built edilir.
+
+`npm start` : Projeyi çalıştırır.
+
+
 **App URL:** http://localhost:3000
 
 **Uygulama Görüntüleri:**
