@@ -6,7 +6,7 @@
 
 `npm run build` : Proje built edilir.
 
-`npm start` : Projeyi çalıştırır.
+`npm start` : Proje çalıştırır.
 
 
 **App URL:** http://localhost:3000
