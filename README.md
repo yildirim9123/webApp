@@ -2,7 +2,7 @@
 Hibarnate - Spring Boot - React Bootstrap - RESTful Uygulaması
 ---
 **web-app** Hibarnate - Spring Boot - React Bootstrap - RESTful teknolojileri kullanılarak yazılmıştır.
-Bu uygulama server tarafında Employee, Department, Meeting tablolarına veri ekleme, silme, güncelleme, listeleme işlemlerini yapan **server-app** ve aryüzleri içeren **client-app** olarak iki ayrı projeye ayrılmıştır.
+Bu uygulama server tarafında Employee, Department, Meeting tablolarına veri ekleme, silme, güncelleme, listeleme işlemlerini yapan **server-app** ve arayüzleri içeren **client-app** olarak iki ayrı projeye ayrılmıştır.
 Veritabanı olarak Oracle kullanılmıştır.
 
 **Application Name:** web-app
